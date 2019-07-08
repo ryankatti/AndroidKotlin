@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">AndroidKotlin</string>
+	<string name="password">Password</string>
+	<string name="userName">User Name</string>
+	<string name="login">Login</string>
+	<string name="username">User Name</string>
+	<string name="logoimage">Logo Image</string>
+</resources>
